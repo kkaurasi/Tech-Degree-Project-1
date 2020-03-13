@@ -210,7 +210,7 @@ a.social:hover {
 .css:hover {
   transform: scale(1.2);
 }
-.JavaScript:hover {
+.javascript:hover {
   transform: scale(1.2);
 }
 .Experience:hover {
@@ -232,9 +232,7 @@ a.social:hover {
   display: table;
   margin: 10px auto;
 }
-.Kenon {
-  text-align: left;
-}
+
 .tagindex:hover {
   transform: scale(1.3);
   color: crimson;
@@ -242,11 +240,11 @@ a.social:hover {
 .tagindex {
   font-size: medium;
 }
-.Kenon:hover {
+.kenon:hover {
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }
-.Keona:hover {
+.keona:hover {
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }
@@ -264,9 +262,5 @@ padding-top: 30px;
 }
 .sacmap:hover {
   transform: scale(1.1);
-}
-.kdesign {
-  text-align: left;
-  color:white;
 }
 }
