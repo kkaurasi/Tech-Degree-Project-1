@@ -38,6 +38,7 @@ a:hover {
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
+  text-align: right;
 }
 
 .nav .name {
@@ -257,5 +258,15 @@ a.social:hover {
 .mapouter {
 padding-top: 30px;
 
+}
+.sacmap {
+  padding-top: 30px;
+}
+.sacmap:hover {
+  transform: scale(1.1);
+}
+.kdesign {
+  text-align: left;
+  color:white;
 }
 }
